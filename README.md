@@ -155,11 +155,7 @@
     </tr>
   </table>
 
-  <br/>
 
-  <a href="https://github.com/H44k404">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=H44k404&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_color=30363d" width="100%" alt="Commit Activity" />
-  </a>
 </div>
 
 ---
