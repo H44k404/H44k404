@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I am Kalana!
 
-<!--
-**H44k404/H44k404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer & Solution Architect
 
-Here are some ideas to get you started:
+- Currently building scalable cloud applications and reactive web platforms.
+- - Passionate about clean code, performance optimization, and modern UI/UX design.
+  - - Exploring distributed systems, AI integrations, and developer tooling.
+   
+    - ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ### Tech Stack
+
+    - **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
+    - - **Frontend:** React, Next.js, Tailwind CSS, Vite
+      - - **Backend:** Node.js, Express, FastAPI, GraphQL, REST APIs
+        - - **Databases & Cloud:** PostgreSQL, MongoDB, Redis, Docker, Git, GitHub Actions, Vercel
+         
+          - ---
+
+          ### Featured Projects
+
+          - **Cloud Platform:** Full-stack distributed web application with real-time collaboration.
+          - - **Dev Tools Suite:** Developer productivity toolkit and CLI utility for rapid testing.
+            - - **Glass UI Design System:** Modern component library with smooth micro-animations.
+              - - **AI Automation Assistant:** Intelligent agent integration for repository workflows.
+               
+                - ---
+
+                ### Connect with Me
+
+                - GitHub: [H44k404](https://github.com/H44k404)
+                - - Email: kalanav881@gmail.com
+                  - 
