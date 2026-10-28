@@ -2,7 +2,7 @@
 
   <!-- MINIMAL SLEEK MONOCHROME / TERMINAL HEADER -->
   <a href="https://github.com/H44k404">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=180&section=header&text=KALANA%20VIMUKTHI&fontSize=38&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%26%20FULL-STACK&descFontSize=15&descAlignY=66&descAlign=50" width="100%" alt="Header" />
+    <img src="./assets/header.svg" width="100%" alt="Header" />
   </a>
 
   <!-- MONOSPACE TERMINAL TYPING SVG -->
@@ -186,7 +186,6 @@ Content-Type: application/json
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=40&section=footer" width="100%" alt="Footer" />
   <p align="center">
     <sub>System Architecture & Implementation by Kalana Vimukthi (H44k404)</sub>
   </p>
