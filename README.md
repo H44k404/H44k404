@@ -1,211 +1,193 @@
 <div align="center">
 
-  <!-- HERO BANNER / TYPING HEADER -->
+  <!-- MINIMAL SLEEK MONOCHROME / TERMINAL HEADER -->
   <a href="https://github.com/H44k404">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=KALANA%20|%20H44k404&fontSize=42&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Creative%20Engineer%20%7C%20Open-Source%20Enthusiast&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=180&section=header&text=KALANA%20VIMUKTHI&fontSize=38&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%26%20FULL-STACK&descFontSize=15&descAlignY=66&descAlign=50" width="100%" alt="Header" />
   </a>
 
-  <!-- TYPING SVG SUBTITLE -->
+  <!-- MONOSPACE TERMINAL TYPING SVG -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%A1+Architecting+Scalable+Cloud+%26+Web+Applications;%F0%9F%9A%80+Crafting+High-Performance+Modern+UI%2FUX;%F0%9F%9B%A0%EF%B8%8F+Turning+Complex+Problems+into+Elegant+Code;%F0%9F%8C%9F+Open+to+Collaborations+%26+Exciting+Ventures!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Distributed+Systems+%E2%80%A2+High-Performance+Web+Architecture;Full-Stack+Engineering+%E2%80%A2+Modern+Frontend+%26+APIs;Clean+Code+%E2%80%A2+System+Design+%E2%80%A2+Cloud+Infrastructure" alt="Console Log" />
     </a>
   </p>
 
-  <!-- QUICK NAVIGATION / BADGES -->
+  <!-- QUICK ANCHORS -->
   <p align="center">
-    <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-About_Me-03001C?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="About Me" /></a>
-    <a href="#-tech-stack-galaxy"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-Tech_Stack-301E67?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Tech Stack" /></a>
-    <a href="#-featured-showcase-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80-Projects-5B8FB9?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Projects" /></a>
-    <a href="#-github-command-center"><img src="https://img.shields.io/badge/%F0%9F%93%8A-Stats-B6EADA?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Stats" /></a>
-    <a href="#-connect--collaborate"><img src="https://img.shields.io/badge/%F0%9F%93%A8-Contact-7928CA?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Contact" /></a>
-  </p>
-
-  <!-- PROFILE VIEWS COUNTER -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=H44k404&style=flat-square&color=00f5d4&label=PROFILE+VISITS" alt="Profile views" />
+    <a href="#about-overview"><img src="https://img.shields.io/badge/OVERVIEW-0d1117?style=flat-square&logo=git&logoColor=58a6ff" alt="Overview" /></a>
+    <a href="#engineering-stack"><img src="https://img.shields.io/badge/STACK-0d1117?style=flat-square&logo=codecov&logoColor=58a6ff" alt="Stack" /></a>
+    <a href="#core-repositories--architecture"><img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=flat-square&logo=github&logoColor=58a6ff" alt="Repositories" /></a>
+    <a href="#metrics--telemetry"><img src="https://img.shields.io/badge/TELEMETRY-0d1117?style=flat-square&logo=datadog&logoColor=58a6ff" alt="Telemetry" /></a>
+    <a href="#communications"><img src="https://img.shields.io/badge/ENDPOINT-0d1117?style=flat-square&logo=mailgun&logoColor=58a6ff" alt="Endpoint" /></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About / Overview
 
-```yaml
-name: Kalana
-handle: H44k404
-role: Full-Stack Engineer & Solution Architect
-current_focus: Building modern scalable web services & sleek reactive UIs
-loves: Clean architecture, glassmorphism, micro-interactions & automation
-status: 🟢 Available for freelance projects & open-source collaboration
-email: kalanav881@gmail.com
+```json
+{
+  "developer": "Kalana Vimukthi",
+  "handle": "H44k404",
+  "focus": ["Distributed Systems", "Full-Stack Web Architecture", "High-Throughput APIs"],
+  "environment": "Linux / Windows / Docker",
+  "languages": ["TypeScript", "JavaScript", "Python", "Go", "SQL"],
+  "status": "Available for high-impact software engineering roles & technical collaboration",
+  "contact": "kalanav881@gmail.com"
+}
 ```
 
-- 🔭 Currently crafting production-ready, lightning-fast digital products.
-- 🌱 Expanding expertise across **Distributed Systems**, **Cloud Native Apps**, and **Next-Gen Web APIs**.
-- 💬 Ask me about **Frontend Engineering, Node.js, Systems Architecture, and Design Systems**.
-- ⚡ Fun fact: *"Good code is its own best documentation... but great READMEs turn repositories into art!"*
+- Specializing in resilient system architecture, decoupled backend services, and high-performance client applications.
+- Emphasis on strict typing, modular code design, automated CI/CD workflows, and performance optimization.
+- Active in open-source development and modern web standards.
 
 ---
 
-### 🛠️ Tech Stack Galaxy
+### Engineering Stack
 
-#### 🌐 Frontend & UI/UX
+#### Core & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-#### ⚙️ Backend & API Services
+#### Backend & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=googlecloud&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
 </p>
 
-#### 💾 Databases & Cloud Infrastructure
+#### Systems & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-### 🚀 Featured Showcase Projects
+### Core Repositories & Architecture
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>🌌 Project Alpha: Cloud Platform</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20Postgres-blue?style=flat-square" />
-      </p>
-      <p>A full-stack distributed web application featuring authentication, real-time collaboration channels, and automated deployment pipelines.</p>
-      <p align="center">
-        <a href="https://github.com/H44k404"><b>Source Code ↗</b></a> • 
-        <a href="https://github.com/H44k404"><b>Live Demo 🌐</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>⚡ Project Beta: Dev Tools Suite</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20API-orange?style=flat-square" />
-      </p>
-      <p>Developer productivity toolkit and CLI utility for rapid testing, endpoint mocking, and telemetry visualization in microservices.</p>
-      <p align="center">
-        <a href="https://github.com/H44k404"><b>Source Code ↗</b></a> • 
-        <a href="https://github.com/H44k404"><b>Live Demo 🌐</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>🎨 Project Gamma: Glass UI Design System</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Open%20Source-cyan?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-CSS3%20%7C%20Tailwind-teal?style=flat-square" />
-      </p>
-      <p>A modern glassmorphic component library with buttery smooth micro-animations and accessibility-first design tokens.</p>
-      <p align="center">
-        <a href="https://github.com/H44k404"><b>Source Code ↗</b></a> • 
-        <a href="https://github.com/H44k404"><b>Documentation 📖</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>🧠 Project Delta: AI Automation Assistant</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Featured-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI-yellow?style=flat-square" />
-      </p>
-      <p>Intelligent agent integration for automating repository tasks, code reviews, and issue triage with AI LLM models.</p>
-      <p align="center">
-        <a href="https://github.com/H44k404"><b>Source Code ↗</b></a> • 
-        <a href="https://github.com/H44k404"><b>Live Demo 🌐</b></a>
-      </p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Repository / Project</th>
+      <th align="left">Architecture & Stack</th>
+      <th align="center">Scope</th>
+      <th align="right">Endpoints</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>distributed-service-core</b></td>
+      <td>Microservices pattern, Node.js / TypeScript, Redis cache layer, PostgreSQL</td>
+      <td align="center"><code>Production</code></td>
+      <td align="right">
+        <a href="https://github.com/H44k404">Source</a> • 
+        <a href="https://github.com/H44k404">Docs</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>enterprise-web-client</b></td>
+      <td>Next.js App Router, SSR/SSG caching, Tailwind CSS, TypeScript, Turborepo</td>
+      <td align="center"><code>Active</code></td>
+      <td align="right">
+        <a href="https://github.com/H44k404">Source</a> • 
+        <a href="https://github.com/H44k404">Deploy</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>telemetry-api-gateway</b></td>
+      <td>FastAPI, Async Python runtime, Prometheus metrics export, Docker</td>
+      <td align="center"><code>Open Source</code></td>
+      <td align="right">
+        <a href="https://github.com/H44k404">Source</a> • 
+        <a href="https://github.com/H44k404">Docs</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>developer-cli-tools</b></td>
+      <td>Cross-platform CLI automation toolchain, Go / Shell scripting, CI release pipelines</td>
+      <td align="center"><code>Stable</code></td>
+      <td align="right">
+        <a href="https://github.com/H44k404">Source</a> • 
+        <a href="https://github.com/H44k404">Binary</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 📊 GitHub Command Center
+### Metrics & Telemetry
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=H44k404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7928CA&text_color=C9D1D9" alt="GitHub Stats" width="415" />
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=H44k404&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="420" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H44k404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages" width="375" />
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H44k404&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="370" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H44k404&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=7928CA&fire=FF007F&currStreakNum=00F5D4&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="100%" />
+      <td colspan="2" align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H44k404&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="Contribution Streak" width="100%" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- ACTIVITY GRAPH -->
   <a href="https://github.com/H44k404">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=H44k404&theme=tokyo-night&bg_color=0D1117&color=00F5D4&line=7928CA&point=00F5D4&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=H44k404&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_color=30363d" width="100%" alt="Commit Activity" />
   </a>
 </div>
 
 ---
 
-### 📬 Connect & Collaborate
+### Communications
+
+```http
+POST /api/v1/contact HTTP/1.1
+Host: api.h44k404.dev
+Content-Type: application/json
+
+{
+  "email": "kalanav881@gmail.com",
+  "github": "https://github.com/H44k404",
+  "status": "accepting_inquiries"
+}
+```
+
+<p align="center">
+  <a href="mailto:kalanav881@gmail.com"><img src="https://img.shields.io/badge/Email-kalanav881%40gmail.com-0d1117?style=flat-square&logo=mailgun&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/H44k404"><img src="https://img.shields.io/badge/GitHub-H44k404-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/X-Profile-0d1117?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 <div align="center">
-  <p>I'm always interested in hearing about new projects, exciting collaborations, or developer banter.</p>
-  
-  <a href="mailto:kalanav881@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kalanav881%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/H44k404">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-  <br/><br/>
-  
-  <!-- DAILY DEV QUOTE -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
-  <br/><br/>
-
-  <!-- FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,1&height=120&section=footer" width="100%" alt="Footer Banner" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=30363d&height=40&section=footer" width="100%" alt="Footer" />
   <p align="center">
-    <i>Designed with precision & passion by <a href="https://github.com/H44k404"><b>Kalana (H44k404)</b></a></i>
+    <sub>System Architecture & Implementation by Kalana Vimukthi (H44k404)</sub>
   </p>
 </div>
